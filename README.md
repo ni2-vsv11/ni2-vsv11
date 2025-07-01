@@ -25,7 +25,7 @@ Check out my repositories for:
 ### 📫 Let’s Connect
 - Portfolio: [ni2-vsv11.github.io](https://ni2-vsv11.github.io/)
 - LinkedIn: [linkedin.com/in/nitesh-vasave](https://linkedin.com/in/nitesh-vasave)
-- Email: `niteshvasave11@gmail.com`
+- Email: `nitesh.vpro@gmail.com`
 
 ---
 
