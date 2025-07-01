@@ -1,5 +1,36 @@
-# 💫 About Me:
-👋 Hi, I'm Nitesh Vasave — a passionate Full Stack Developer and Open Source Contributor with a strong interest in building scalable web applications and developer tools.<br><br>🌱 Currently Completed BCA, I love working on projects that blend React, Node.js, MongoDB, and TypeScript, and I'm also exploring the world of open-source development, DevOps, and AI integrations.<br><br>🚀 Recent Highlights:<br><br>✨ Working on Green-Wave – a Spotify-inspired music app built with the MERN stack + Tailwind + TypeScript<br><br>🤖 Contributing to tools like Continue.dev, enhancing Gemini API support for next-gen coding assistants<br><br>📱 Building smart solutions like a QR-based Attendance System for enterprises with 1000+ employees<br><br>🛠 Tech Stack:<br><br>Languages: JavaScript, TypeScript, Go, Python<br><br>Frontend: React.js, Tailwind CSS<br><br>Backend: Node.js, Express.js<br><br>Databases: MongoDB, MySQL<br><br>Tools: GitHub, Postman, Docker, Figma, VS Code<br><br>📫 Let's Connect:<br><br>💼 LinkedIn: Nitesh Vasave<br><br>🌐 Portfolio <br><br>📧 Email: ni2educational@gmail.com<br><br>
+## 👋 Hello, I'm Nitesh Vasave
+
+🎓 BCA Graduate | 💻 Full-Stack Developer | 🔍 Open Source Enthusiast
+
+I'm passionate about building modern, scalable web applications with seamless UX and powerful backend logic. I love solving real-world problems using technology and continuously pushing myself to learn and grow.
+
+### 🔧 Tech Stack & Tools
+- **Frontend:** Next.js, React.js, Tailwind CSS, HTML5, CSS3, JavaScript (ES6+)
+- **Backend:** Node.js, Express.js, MongoDB, MySQL
+- **Tools & Platforms:** Git, GitHub, VS Code, Firebase, Postman
+- **Deployment:** Vercel, Render, Netlify
+- **Other Interests:** REST APIs, JWT Auth, Web Security, Scalable Architecture
+
+### 🛠️ Projects
+Check out my repositories for:
+- 🌍 Modern travel web apps with dynamic routing and stunning UI (Next.js)
+- 🎵 A Spotify-inspired music platform with real-time friend activity and chat
+- 🏢 Scalable QR-based employee attendance system for 1000+ users
+
+### 🌱 Currently Exploring
+- TypeScript & tRPC
+- Advanced React/Next.js Patterns
+- Serverless & Cloud Functions with Vercel
+
+### 📫 Let’s Connect
+- Portfolio: [ni2-vsv11.github.io](https://ni2-vsv11.github.io/)
+- LinkedIn: [linkedin.com/in/nitesh-vasave](https://linkedin.com/in/nitesh-vasave)
+- Email: `niteshvasave11@gmail.com`
+
+---
+
+> ⚡ *Always building, always learning.*
+
 
 
 ## 🌐 Socials:
