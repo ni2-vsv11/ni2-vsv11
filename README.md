@@ -1,6 +1,6 @@
 ## 👋 Hello, I'm Nitesh Vasave
 
-🎓 BCA Graduate | 💻 Full-Stack Developer | 🔍 Open Source Enthusiast
+🎓 BCA Graduate | 💻 Full-Stack Developer | 🔍 Open Source Enthusiast 
 
 I'm passionate about building modern, scalable web applications with seamless UX and powerful backend logic. I love solving real-world problems using technology and continuously pushing myself to learn and grow.
 
