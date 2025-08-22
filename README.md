@@ -23,7 +23,7 @@ Check out my repositories for:
 - Serverless & Cloud Functions with Vercel
 
 ### 📫 Let’s Connect
-- Portfolio: [ni2-vsv11.github.io](https://ni2-vsv11.github.io/)
+- Portfolio: [Nitesh-Vasave-Portfolio](https://ni2-portfolio.vercel.app/)
 - LinkedIn: [linkedin.com/in/nitesh-vasave](https://linkedin.com/in/nitesh-vasave)
 - Email: `nitesh.vpro@gmail.com`
 
