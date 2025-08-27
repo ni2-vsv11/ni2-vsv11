@@ -6,7 +6,7 @@ I'm passionate about building modern, scalable web applications with seamless UX
 
 ### 🔧 Tech Stack & Tools
 - **Frontend:** Next.js, React.js, Tailwind CSS, HTML5, CSS3, JavaScript (ES6+)
-- **Backend:** Node.js, Express.js, MongoDB, MySQL
+- **Backend:** Node.js, MongoDB, MySQL
 - **Tools & Platforms:** Git, GitHub, VS Code, Firebase, Postman
 - **Deployment:** Vercel, Render, Netlify
 - **Other Interests:** REST APIs, JWT Auth, Web Security, Scalable Architecture
