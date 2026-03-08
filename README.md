@@ -2,7 +2,9 @@
 
 🎓 MCA student | 💻 Software Developer | 🔍 Open-Source Enthusiast 
 
-I'm passionate about building modern, scalable web applications with seamless UX and powerful backend logic. I love solving real-world problems using technology and continuously pushing myself to learn and grow.
+Software Developer focused on building scalable, user-centered applications and solving real problems with clean and efficient code.
+
+💡 I love turning ideas into real products through clean code, thoughtful design, and problem-solving.
 
 ### 🔧 Tech Stack & Tools
 - **Frontend:** Next.js, React.js, Tailwind CSS, HTML5, CSS3, JavaScript (ES6+)
