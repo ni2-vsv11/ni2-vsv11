@@ -52,9 +52,10 @@ Check out my repositories for:
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ni2-vsv11&layout=compact&theme=tokyonight"/>
 
 </div>
-```
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
