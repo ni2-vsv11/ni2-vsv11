@@ -44,17 +44,17 @@ Check out my repositories for:
 # 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ni2-vsv11&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true" height="180em" />
-  
-  <img src="https://streak-stats.demolab.com?user=ni2-vsv11&theme=blue-green&hide_border=false" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ni2-vsv11&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ni2-vsv11&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  <img src="https://streak-stats.demolab.com?user=ni2-vsv11&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ni2-vsv11&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 ```
-
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
