@@ -52,7 +52,6 @@ Check out my repositories for:
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ni2-vsv11&layout=compact&theme=tokyonight"/>
 
 </div>
-```
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
