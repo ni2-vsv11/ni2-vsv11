@@ -43,17 +43,15 @@ Check out my repositories for:
 
 # 📊 GitHub Stats:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ni2-vsv11&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ni2-vsv11&theme=tokyonight" alt="GitHub Streak" />
-</p>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ni2-vsv11&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ni2-vsv11&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ni2-vsv11&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ni2-vsv11&layout=compact&theme=tokyonight"/>
+
+</div>
 ```
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
